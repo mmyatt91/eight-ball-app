@@ -40,7 +40,7 @@ function EightBall (props) {
     }
 
     return (
-        <div className="EightBall" 
+        <div className="EightBall"
             onClick={onClick}
             style={{ backgroundColor: color}}
         >
